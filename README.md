@@ -1,6 +1,6 @@
-# Olá, sou YuriKayke 👋
+# Olá, sou Yuri 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou apaixonado por criar soluções inovadoras e contribuir para projetos significativos.
+ No momento estou cursando Engenharia de Software. Meu foco atualmente é desenvolver sistemas em vibe coding, com o objetivo de futuramente migrar para a área de cibersegurança.
 
 ---
 
@@ -8,28 +8,21 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por criar soluções inovadora
 
 Sou um desenvolvedor dedicado que adora explorar novas tecnologias e resolver problemas complexos. Estou sempre motivado a aprender, colaborar e compartilhar conhecimento com a comunidade.
 
-- 🔭 Atualmente trabalhando em projetos emocionantes
+- 🔭 Atualmente trabalhando em projeto de marketplace
 - 🌱 Aprendendo e crescendo continuamente
 - 💡 Aberto a colaborações e novas oportunidades
-- 🎯 Focado em escrever código limpo e eficiente
 
 ---
 
 ## 💻 Habilidades Técnicas
 
-- **Linguagens**: JavaScript, Python, Java, e mais
-- **Frontend**: React, Vue.js, CSS3, HTML5
-- **Backend**: Node.js, Express, Django
-- **Ferramentas & Plataformas**: Git, Docker, Linux
-- **Bancos de Dados**: PostgreSQL, MongoDB, MySQL
+  No momento não tenho uma linguagem para falar que e minha, mas no momento estou fazendo curso na linguagem de Python. Entendo um pouco de CSS3 e HTML5. E em banco de dados desenrolo um pouco no MySQL.
 
 ---
 
 ## 📂 Projetos em Destaque
 
-- **[Projeto 1](link-do-repo)** - Breve descrição do que este projeto faz
-- **[Projeto 2](link-do-repo)** - Breve descrição do que este projeto faz
-- **[Projeto 3](link-do-repo)** - Breve descrição do que este projeto faz
+- **[YU-VIN](link-do-repo)** - E um mercado digital onde o usuário pode vender e pode comprar, como se fosse a OLX ou o Mercado livre.
 
 ---
 
@@ -43,25 +36,8 @@ Sou um desenvolvedor dedicado que adora explorar novas tecnologias e resolver pr
 
 ## 🤝 Vamos nos Conectar
 
-- 💼 [LinkedIn](seu-url-linkedin)
-- 🐦 [Twitter](seu-url-twitter)
-- 📧 Email: seu-email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/yuri-kayke-30ba2042a/)
+- 📧 Email: yurikayke01@gmail.com
 - 🌐 [Portfólio](seu-url-portfolio)
-
----
-
-## 📝 Últimos Artigos & Atualizações
-
-- Em breve!
-
----
-
-## 💬 Curiosidades
-
-- ⚡ Adoro [inserir hobby/interesse]
-- 🎮 Quando não estou programando, gosto de [inserir atividade]
-- 🌍 Tenho interesse em [inserir tópico]
-
----
 
 **Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e não hesite em me contatar para colaborações ou dúvidas.** 🙌
