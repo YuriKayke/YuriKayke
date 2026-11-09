@@ -56,7 +56,7 @@ Atualmente estou construindo minha base em programação, desenvolvimento web e 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yuri-kayke-30ba2042a/)
 - 📧 Email: yurikayke01@gmail.com
-- 🌐 [Portfólio](seu-url-portfolio)
+- 🌐 [Portfólio](https://portifolio-yuri.lovable.app/)
 
 ## 📌 Atualmente
 
