@@ -61,10 +61,15 @@ Atualmente estou construindo minha base em programação, desenvolvimento web e 
 ## 📌 Atualmente
 
 🎓 Cursando Engenharia de Software
+
 🐍 Estudando Python
+
 🗄️ Desenvolvendo conhecimento em MySQL
+
 🌐 Explorando desenvolvimento web
+
 🛒 Desenvolvendo o prjeto YuVin
+
 🛡️ Construindo uma base para futuramente seguir na área de Cibersegurança
 
 ## Obrigado por visitar meu perfil!!
